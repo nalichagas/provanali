@@ -1,4 +1,27 @@
-//1. Uma estação espacial precisa de um sistema web para administrar sua frota de robôs. Sua missão é
-desenvolver a Central de Robôs, uma aplicação que permita cadastrar robôs, consultar seus dados e realizar
-recargas de energia. O sistema deverá funcionar com PHP e armazenar as informações em arquivo JSON, sem
-banco de dados.
+TESTEEEEEEEEEEEEEEEEEEEEEE 
+///////////////////////////////
+
+
+class explorador{
+    function operar() {
+        echo ""
+        (Nali, 100, 20);
+    }
+    
+}
+
+class engenheiro{
+    function operar() {
+        echo ""
+        (Leticia, 120, 15);
+    }
+}
+
+class defensor{
+    function operar() {
+        echo ""
+        (Chay, 150, 30);
+    }
+}
+
+karma is my boyfirend 

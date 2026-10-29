@@ -1,0 +1,24 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+    font-family:'Times New Roman', Times, serif;
+    background: #7c0000;
+    color: aliceblue;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+header {
+    background: rgb(95, 0, 0);
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 25px;
+}
